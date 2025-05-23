@@ -19,5 +19,6 @@ __Melhorias__ _adicionadas_
 ### Funcionalidades para desenvolver
 
 1. Membros
+    1. Login para membros
 2. Integração com outros pagamentos
 3. Sistema de bônus
