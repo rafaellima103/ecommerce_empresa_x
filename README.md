@@ -33,4 +33,4 @@ __Melhorias__ _adicionadas_
 
 ### Links importantes
 
-[Google](google.com)
+[Google](https://www.google.com/)
