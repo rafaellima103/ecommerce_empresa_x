@@ -48,4 +48,4 @@ function soma(a+b) {
 ### Lista de tarefas:
 
 - [x] Membros
-- [] CSS
+- [ ] CSS
