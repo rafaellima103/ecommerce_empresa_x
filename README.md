@@ -5,3 +5,7 @@ Vamos criar uma e-commerce.
 ## Funcionalidades:
 
 Diversas
+
+###### Melhorias
+
+Melhorias adicionadas
