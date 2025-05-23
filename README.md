@@ -15,3 +15,9 @@ __Melhorias__ _adicionadas_
 * HTML
 * CSS
 * PHP
+
+###### Funcionalidades para desenvolver
+
+1. Membros
+2. Integração com outros pagamentos
+3. Sistema de bônus
