@@ -25,4 +25,4 @@ __Melhorias__ _adicionadas_
 
 ### Imagem local
 
-![Logo do python] (img/download.png)
+![Logo do python](img/download.png)
