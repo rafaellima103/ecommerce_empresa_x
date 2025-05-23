@@ -10,7 +10,8 @@ _**Diversas**_
 
 __Melhorias__ _adicionadas_
 
-### Linguagens do projeto
+### Linguagens do projeto:
 
 *HTML
 *CSS
+*PHP
