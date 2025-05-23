@@ -36,3 +36,11 @@ __Melhorias__ _adicionadas_
 [Google](https://www.google.com/)
 
 [![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)](https://www.google.com/)
+
+## Código da função Soma
+
+```Javascript
+function soma(a+b) {
+    return a + b;
+}
+```
