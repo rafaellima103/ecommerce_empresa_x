@@ -4,8 +4,8 @@ Vamos criar uma **e-commerce** da *empresa X*.
 
 ## Funcionalidades:
 
-Diversas
+_**Diversas**_
 
 ###### Melhorias
 
-Melhorias adicionadas
+__Melhorias__ _adicionadas_
