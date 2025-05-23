@@ -28,3 +28,5 @@ __Melhorias__ _adicionadas_
 ![Logo do python](img/python.png)
 
 ### Imagem externa
+
+![Logo PHP](https://pt.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
