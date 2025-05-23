@@ -22,3 +22,7 @@ __Melhorias__ _adicionadas_
     1. Login para membros
 2. Integração com outros pagamentos
 3. Sistema de bônus
+
+### Imagem local
+
+![Logo do python] (img/download.png)
