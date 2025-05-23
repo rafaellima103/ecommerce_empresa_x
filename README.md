@@ -29,4 +29,4 @@ __Melhorias__ _adicionadas_
 
 ### Imagem externa
 
-![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)
