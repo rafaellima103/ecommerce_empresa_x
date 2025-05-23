@@ -26,3 +26,5 @@ __Melhorias__ _adicionadas_
 ### Imagem local
 
 ![Logo do python](img/python.png)
+
+### Imagem externa
