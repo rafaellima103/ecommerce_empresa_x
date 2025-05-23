@@ -12,6 +12,6 @@ __Melhorias__ _adicionadas_
 
 ### Linguagens do projeto:
 
-*HTML
-*CSS
-*PHP
+* HTML
+* CSS
+* PHP
