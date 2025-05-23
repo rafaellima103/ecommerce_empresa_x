@@ -9,3 +9,8 @@ _**Diversas**_
 ###### Melhorias
 
 __Melhorias__ _adicionadas_
+
+### Linguagens do projeto
+
+*HTML
+*CSS
